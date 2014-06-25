@@ -1,4 +1,4 @@
-// holsca-2a.cpp : Defines the entry point for the application.
+
 //Used Microsoft Visual Studio 2013, program is functional in this dev environment.
 //May need small syntax changes to accomodate any version changes since lab version of Visual Studio
 
