@@ -1,1 +1,1 @@
-ALL PROJECTS ARE CONTAINED WITHIN program.cpp WITHIN EACH FOLDER
+All projects can be started using "program.cpp" contained in each project folder
