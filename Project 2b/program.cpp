@@ -1,4 +1,3 @@
-//Sean Holmes and Kevin Scalabrini 
 //Used Microsoft Visual Studio 2013, program is functional in this dev environment.
 //May need small syntax changes to accomodate any version changes since lab version of Visual Studio (ex. _getch() to getch())
 
