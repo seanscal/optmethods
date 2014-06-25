@@ -1,6 +1,4 @@
 // Opt_Methods_Project1b.cpp
-//Sean Holmes
-//Kevin Scalabrini
 //used Visual Studio 2013. If there are any _getch() instances remaining, they should be changed to getch()
 
 #include "stdafx.h"
