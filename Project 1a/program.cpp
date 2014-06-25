@@ -1,6 +1,4 @@
 // Opt_Methods_Project1a.cpp
-//Sean Holmes
-//Kevin Scalabrini
 //Any commented out code is a start to project 1b
 
 
