@@ -1,0 +1,18 @@
+﻿Build started 1/26/2014 5:26:55 PM.
+     1>Project "C:\Users\sean\documents\visual studio 2013\Projects\holsca-1b\holsca-1b\holsca-1b.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\holsca-1b.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt program.cpp
+         program.cpp
+     1>c:\users\sean\documents\visual studio 2013\projects\holsca-1b\holsca-1b\program.cpp(100): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sean\documents\visual studio 2013\projects\holsca-1b\holsca-1b\program.cpp(116): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sean\documents\visual studio 2013\projects\holsca-1b\holsca-1b\program.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sean\documents\visual studio 2013\projects\holsca-1b\holsca-1b\program.cpp(150): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sean\documents\visual studio 2013\Projects\holsca-1b\Debug\holsca-1b.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\sean\documents\visual studio 2013\Projects\holsca-1b\Debug\holsca-1b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sean\documents\visual studio 2013\Projects\holsca-1b\Debug\holsca-1b.lib" /MACHINE:X86 Debug\program.obj
+         Debug\stdafx.obj
+         holsca-1b.vcxproj -> C:\Users\sean\documents\visual studio 2013\Projects\holsca-1b\Debug\holsca-1b.exe
+     1>Done Building Project "C:\Users\sean\documents\visual studio 2013\Projects\holsca-1b\holsca-1b\holsca-1b.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.24
