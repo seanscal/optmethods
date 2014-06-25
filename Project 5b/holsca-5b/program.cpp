@@ -1,5 +1,4 @@
 // holsca-5a.cpp : Defines the entry point for the console application.
-//Sean Holmes and Kevin Scalabrini
 
 #include "stdafx.h"
 #include <iostream>
