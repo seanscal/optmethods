@@ -1,5 +1,3 @@
-// holsca-3a.cpp 
-// Sean Holmes and Kevin Scalabrini
 // code developed in visual studio 2010 and 2013
 // not yet optimized, will take a long time to execute right now.
 //
