@@ -1,5 +1,4 @@
 // Project 6
-//Sean Holmes and Kevin Scalabrini
 // Assumes that directed edges in both directions (x,y) and (y,x) are present in the input file.
 //
 
