@@ -1,4 +1,4 @@
-//HolSca-4b  Developed in Visual Studio 2010 and 2013
+//Developed in Visual Studio 2010 and 2013
 
 #include "stdafx.h"
 #include <iostream>
